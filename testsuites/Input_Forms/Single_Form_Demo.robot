@@ -18,4 +18,4 @@ Test Script 02: Two Input Fields
     Input Test Data  sum1   123
     Input Test Data     sum2    456
     Click Button    //button[text()="Get Total"]
-    Verify Sum Total    displayvalue    123     456
+    Verify Sum Total  displayvalue  123     456
