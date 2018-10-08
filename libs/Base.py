@@ -196,7 +196,7 @@ class Base(object):
         except Exception as err:
             print(str(err))
 
-    def setUp(self,browser='firefox',delaytime=10):
+    def setUp(self,browser='firefox',delaytime=5):
         '''Set up test browser'''
         self.browser = browser
         try:
