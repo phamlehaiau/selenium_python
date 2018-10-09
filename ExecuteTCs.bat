@@ -1,2 +1,0 @@
-start robot -v BROWSER:firefox -d ../../reports -o Single_Form_Demo_out.xml -l Single_Form_Demo_log.html -r Single_Form_Demo.html Single_Form_Demo.robot
-start robot -v BROWSER:chrome -d ../../reports -o Checkbox_Demo_out.xml -l Checkbox_Demo_log.html -r Checkbox_Demo.html Checkbox_Demo.robot
